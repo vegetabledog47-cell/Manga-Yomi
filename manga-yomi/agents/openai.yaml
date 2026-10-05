@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manga Yomi"
+  short_description: "日漫翻译与校对，保留跨页人物术语记忆，标注歧义并输出可复核的翻译记录"
+  default_prompt: "使用 $manga-yomi 翻译我提供的日漫，检查 OCR、人物称呼与跨页一致性，并列出需要确认的内容。"

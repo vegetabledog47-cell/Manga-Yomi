@@ -1,0 +1,16 @@
+.venv/
+runtime/
+data/
+work/
+__pycache__/
+*.pyc
+*.zip
+.env
+
+*.lnk
+
+tests/test-results.txt
+
+tests/ocr-check.txt
+
+tests/audit-report.md
